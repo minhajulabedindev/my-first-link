@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    background-image: url(./b3jpg.jpg);
+}
+first1{
+   
+    margin: 406px;
+    
+
+
+}
+
+    
+    
+
+.top{
+    
+    width: 50%;
+    height: 80%;
+    border-radius: 16px;
+    
+    font-size: 1.5em;
+    margin-left: 28%;
+    box-shadow: 3px 5px 15px grey;
+    padding-left: 20px;
+    padding-bottom: 25px;
+   
+
+}
+input{
+    
+    font-size: 1em;
+    padding: 10px;
+    border-radius: 12px;
+}
+strong{
+    padding: 25px 0px;
+}
+select{
+    font-size: 1.3em;
+    padding-right: 20px;
+}
+textarea {
+    font-size: 10px;
+    margin-right: 8px;
+   
+}
+
+.m{
+    font-size: 20px;
+    font-weight: 700;
+}
+a{
+    text-decoration: none;
+    padding:8px 18px;
+    border-radius:10px;
+    background: rgba(243, 242, 242, 0.87);
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(68, 65, 65);
+
+}
