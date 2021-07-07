@@ -5,6 +5,7 @@ body{
 first1{
    
     margin: 406px;
+
     
 
 
@@ -29,7 +30,7 @@ first1{
 }
 input{
     
-    font-size: 1em;
+    font-size: 0.9em;
     padding: 10px;
     border-radius: 12px;
 }
@@ -37,14 +38,9 @@ strong{
     padding: 25px 0px;
 }
 select{
-    font-size: 1.3em;
-    padding-right: 20px;
-}
-textarea {
-    font-size: 10px;
-    margin-right: 8px;
-   
-    
+    font-size: 25px;
+    padding-right: 60px;
+    border-radius: 10px;
 }
 
 .m{
@@ -60,4 +56,13 @@ a{
     color: rgb(0, 0, 0);
     border: 2px solid rgb(68, 65, 65);
 
+}
+textarea{
+    width: 70%;
+    height: 70px;
+    border-radius: 10px;
+}
+.m{
+    width: 90px;
+    height: 15px;
 }
